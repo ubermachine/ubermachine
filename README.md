@@ -2,9 +2,8 @@
 
 <!--
 **ubermachine/ubermachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![pmm](https://user-images.githubusercontent.com/53916068/170824865-1e41103a-3c5d-4290-a0f1-70968ccd97f1.png)
-
-
+![pmm]([https://github.com/ubermachine/ubermachine/blob/main/pmm.png])
+![ScreenShot](/pmm.png)
 
 Here are some ideas to get you started:
 
