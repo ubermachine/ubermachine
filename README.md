@@ -1,12 +1,14 @@
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ubermachine&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ubermachine)
-
-<br/><br/>
-
 ![Pm](/pmm.png)
 
 </div>
+
+<p align="right">
+  <a href="https://github.com/ubermachine">
+    <img src="https://komarev.com/ghpvc/?username=ubermachine&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</p>
 
 <!--
 **ubermachine/ubermachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
