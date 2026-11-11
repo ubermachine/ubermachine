@@ -6,7 +6,7 @@
 
 <p align="right">
   <a href="https://github.com/ubermachine">
-    <img src="https://komarev.com/ghpvc/?username=ubermachine&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=ubermachine&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS&base=95" alt="Profile Views" />
   </a>
 </p>
 
