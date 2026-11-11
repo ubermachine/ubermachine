@@ -1,10 +1,10 @@
 <div align="center">
 
+[![Profile Views](https://komarev.com/ghpvc/?username=ubermachine&color=007ec6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ubermachine)
+
+<br/><br/>
+
 ![Pm](/pmm.png)
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ubermachine&color=007ec6&style=flat-square&label=PROFILE+VIEWS)](https://github.com/ubermachine)
 
 </div>
 
